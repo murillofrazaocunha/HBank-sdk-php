@@ -2,6 +2,7 @@
   "name": "murillofrazaocunha/hbank-sdk-php",
   "description": "Cliente PHP para a API de pagamento da Hight Bank",
   "type": "project",
+  "version": "1.0.0",
   "require": {
     "php": "^8.0",
     "guzzlehttp/guzzle": "^7.0"
